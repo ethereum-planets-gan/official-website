@@ -143,7 +143,26 @@ const dict = [{
 		"description": "Sandy Pygmalion, the land powered by primitive dApps.",
 		"url": "61756156306605666331449191952000501727754696747778634075281474089495992205313",
 		"image": "Ua2TcONiZfP_p--2BblSU-DtsmrCysPJJQOXBsLsXQzuigglUQphoXv-HjkL5l0P_E4ZRfsaPz9u2p0wUMlAF_HJK9ehCjkmbzRYzQ=s0"
+	},
+	{
+		"title": "Pelias",
+		"description": "Pelias, the planet powered by Layer 1 competitors to ETH that are EVM compatible.",
+		"url": "61756156306605666331449191952000501727754696747778634075281474119182806155265",
+		"image": "TtbK-t7t9jXGvLvf0YEGgQFte4h8nKBbxskzcdTrYE91iSodW6dMg90b5sXLvoWSQR_7S2Vy-lZ9bTCqWrQB0W1478-s0UwpPD-wpg=s0"
+	},
+	{
+		"title": "Echo",
+		"description": "Echo, one of Zeus nymphs, the promised planet of fully decentralized ecosystems such as Terra.",
+		"url": "61756156306605666331449191952000501727754696747778634075281474120282317783041",
+		"image": "ZyotyAuaQV87_pqYD9ggt4dwwqVLXFs-iDjWv1jFcAgONGaf3ocAtbYu9b_F-fEOnb0Mft5UIcCkwZO_z28Knj-4S8zyp82eF_uH=s0"
+	},
+	{
+		"title": "Manes",
+		"description": "Manes, the planet where old versions of dApps that are no longer used go to rest in peace.",
+		"url": "61756156306605666331449191952000501727754696747778634075281474121381829410817",
+		"image": "10LE_jY7OFawXxRudYLT2Nvy0qFpz_NkcGQQippsokoReI59ZCArxyR8UkGkn98CODL7TZBgPIqq0acoxNuLze0NqHfFI7FmnQrfVw=s0"
 	}
+	      
 ]
 
 
