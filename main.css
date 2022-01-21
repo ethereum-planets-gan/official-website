@@ -72,6 +72,7 @@ a:hover p {
 }
 
 .copyright-text {
+	color: var(--body-bg);
 	padding-bottom: 2%;
 	font-size: 110%;
 	text-align: center;
