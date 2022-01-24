@@ -161,6 +161,24 @@ const dict = [{
 		"description": "Manes, the planet where old versions of dApps that are no longer used go to rest in peace.",
 		"url": "61756156306605666331449191952000501727754696747778634075281474121381829410817",
 		"image": "10LE_jY7OFawXxRudYLT2Nvy0qFpz_NkcGQQippsokoReI59ZCArxyR8UkGkn98CODL7TZBgPIqq0acoxNuLze0NqHfFI7FmnQrfVw=s0"
+	},
+	{
+		"title": "Cleopatra",
+		"description": "Cleopatra, the land of layer 2 solutions for ETH mainnet.",
+		"url": "61756156306605666331449191952000501727754696747778634075281474122481341038593",
+		"image": "go8VYvP-T0Efo1AX6k0O0FZOHn1gzBAD32-1wQE2ToW9ern3gmDtuxb9Q67eEIw9Xw3YBTLVgqe7lsOGI9cVNHqmTAu1fWcq4pVr0A=s0"
+	},
+	{
+		"title": "Ophelia",
+		"description": "Ophelia, the planet of forked EVM chains that eventually end up drowning from newer more refined versions of themselves.",
+		"url": "61756156306605666331449191952000501727754696747778634075281474123580852666369",
+		"image": "nj1I9aYrHXiVh3tmfrELeAJNKn7AmYYIvdfa6z254SBQ1BQ4uA7xZX5uQabSRmwfy2kp_OQwBni8ErKKO5n1A5ED5JXUqrLmaEtbKQ=s0"
+	},
+	{
+		"title": "Ulysses",
+		"description": "Ulysses, the planet where all the ETH Improvement Proposals leading up to Ethereum 2.0 are being stored and tested.",
+		"url": "61756156306605666331449191952000501727754696747778634075281474124680364294145",
+		"image": "wCApifNc52DfHCt_RvlpNu0dvV49I4Zt17NRtOjyHcQs_txEFc0SkiDD5dhNpSlfg8H3dRIewwhDaGc8ld40gPJx8n231fW1W1DRIhg=s0"
 	}
 	      
 ]
